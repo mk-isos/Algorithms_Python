@@ -1,6 +1,6 @@
 # Algorithms_Python
 
-This repository contains a collection of Python scripts and resources for studying algorithms. It includes various sorting algorithms, problem-solving techniques, and coding exercises to enhance your Python programming skills. This repository is structured to facilitate easy navigation and organized learning.
+This repository contains a collection of Python scripts and resources for studying algorithms. It includes various sorting algorithms, problem-solving techniques, and coding exercises to enhance your Python programming skills. 
 
 ## Repository Structure
 
